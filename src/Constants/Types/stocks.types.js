@@ -1,0 +1,4 @@
+const STOCK_ACTIONS = {
+	FETCH_STOCKS: "FETCH_STOCKS",
+};
+export default STOCK_ACTIONS;
